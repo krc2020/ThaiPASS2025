@@ -59,6 +59,9 @@ Run the provided notebook and follow the step-by-step exercises.
 ### **You can clone directly from Google Colab here:**
 https://colab.research.google.com/drive/19QCVNpoflF9AWl-vkIZHGR4USchH3Q9D?usp=sharing
 
+### **Here is the answer to the above workbook:**
+https://colab.research.google.com/drive/1Gm6OktBr5pysdGzmfzTYovxZjK2DuJSc?usp=sharing
+
 ---
 
 ### **References**
