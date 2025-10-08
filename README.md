@@ -49,8 +49,6 @@ ThaiPASS2025/AGN/
 from google.colab import drive
 drive.mount('/content/drive')
 %cd /content/drive/MyDrive/ThaiPASS2025/AGN
-
-import agn_tools
 ```
 
 Run the provided notebook and follow the step-by-step exercises.
